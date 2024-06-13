@@ -46,27 +46,26 @@ Kibbutz Ein Harod M. primary school and “Ort Emek Harod” high school
 • 2019-2023 Elementry school educator & teacher
 Teaching: Math, Hebrew,Sceience, life skills
 Ofakim Primary School
-Kibbutz Merhavia
+Kibbutz Merhavia.  
 • 2017-2018 Labrotary assistent in the "Centeral Laboratry for Fish Health"
 Fisheries & Water Department 
-Minstry of Agriculture and Rural Development
+Minstry of Agriculture and Rural Development.  
 • 2015-2018 Koi-Kin Fish Farm 
 Larvae development department of Koi & Gold fish
-Moshav Ram-On, Israel.
-• 2007-2015 Coral Divers Beach Shop manager at Sodwana Bay
-Managing a retail dive & surf shop, compressor room, teaching Scuba dive courses in few levels, with emphasize on environmental courses.  
-•	2004-2007 Scuba instructing (freelance jobs) at Sodwana Bay
-•	1999-2002 Milking in Refet Maagan- Michael & Teaching in Mevot-Yam high school in Michmort.
+Moshav Ram-On, Israel.  
+• 2007-2015 Coral Divers Beach Shop manager at Sodwana Bay. Managing a retail dive & surf shop, compressor room, teaching Scuba dive courses in few levels, with emphasize on environmental courses.  
+•	2004-2007 Scuba instructing (freelance jobs) at Sodwana Bay.  
+•	1999-2002 Milking in Refet Maagan- Michael & Teaching in Mevot-Yam high school in Michmort.  
 •	1993-1999 Scuba diving instructor in Eilat, Australia, Seychelles & South Africa,
-Guiding and teaching nature & hiking trips in Eilat & Sinai Peninsula. 
-•	1992 Refet Ein Harod M. – milking, calves, etc. 
+Guiding and teaching nature & hiking trips in Eilat & Sinai Peninsula.   
+•	1992 Refet Ein Harod M. – milking, calves, etc.   
 •	1989-1991 Army service in Eilat Field School, guiding & teaching nature conservation and hiking trips, include 6 months course in these subjects of the Israeli Nature Conservation Company. 
 
 ### Skills
 
-•	PADI Advanced Open Water SCUBA Diving
-• Languages: Hebrew (native), English (fluent oral & written)
-•	Other: managing skills, well organized & good with jobs involving people, animals, and outdoor jobs.
-•   Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.
+• PADI Advanced Open Water SCUBA Diving instructor.  
+• Languages: Hebrew (native), English (fluent oral & written).  
+• Other: managing skills, well organized & good with jobs involving people, animals, and outdoor jobs.  
+• Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.
 
 
