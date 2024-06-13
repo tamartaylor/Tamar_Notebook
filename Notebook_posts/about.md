@@ -4,89 +4,68 @@ title: About
 permalink: /about/
 ---
 
-I am futur PhD student in marine ecology and physiology science in PutnamLAb. My project will be based on Genetic, functional and reproductive diversity of Pocillopora in the lagoon of Mo’orea. 
+I am Master's student in Marine Biology in Mass-Lab in University of Haifa, Israel. 
+My project will be based on ecology and photo-phsyology of coral communities along the depth gradient in the northern Red Sea reefs of Eilat. 
  
 
 ### More Information
 
-https://pierrickharnay.github.io/PierrickHarnay_Notebook/
+https://tamartaylor.github.io/Tamar_Notebook/
 
 ### Contact me
 
-[pierrick.harnay@gmail.com](mailto:Pierrick_harnay@uri.com)
+[tamartaylor71@gmail.com](tamartaylor71@gmail.com)
 
 
-## <center>PIERRICK E. HARNAY</center><center>Department of Biological Sciences</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>### EDUCATION2021-2022 | **Université Paris Sorbonne** | **École Pratique des Hautes Études (EPHE)**   
-	- Master degree 2  
-		- Biodiversity and Environment, Integrative Master of 		  Global Health and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier), and CRIOBE
-		  (Perpignan France and Mo’orea French Polynesia)  
-		  
-2019-2020 | **Université Paris Sorbonne** | **EPHE**   
-	- Master degree 1   
-		- Biodiversity and Environment, Integrative Master of Global Health 		  and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier, Dinard), 		  and CRIOBE (Perpignan)  
-		
-2018-2019 | **Université de Lorraine** | **Institut Universitaire Technologique Nancy- Brabois**  
-	- Professional Bachelor degree   
-		- Continental Aquaculture and Aquariology with honours   
-		
-2016-2017 | **Université de Montpellier** | **Continuing Education Department**   
-	- Technical Specialist Diploma (DU)  
-		- Aquaculture   
-		
-2013-2016 | **Lycée Jeanne Antide**   
-*2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
-*2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
-### Professional Experience
-2022 | ***Universiy of Rhode Island - Rhode Island, USA***
-		- Supervisors - Dr. Hollie Putnam
-	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
-	- Genetic, functional and reproductive diversity of *Pocillopora sp.* in 	  the lagoon of Mo’orea.
+## <center>TAMAR SHIFRONI TAYLOR</center>
+<center>School of Marine Sciences</center>
+<center>University of Haifa, Israel</center>
+<center>199 Aba Khoushy Ave. Mount Carmel, Haifa</center>
 
-2021-2022 | ***Oregon State University – Tetiaroa, French Polynesia***
-		- Research Assistant - *Impacts of rat eradication on coral reef health*
-		- Supervisors - Drs. Rebecca Vega Thurber Hannah Epstein
-	- Coral surveys via transect, coral and water sampling for bacterial 	  analysis, multivariate and generalized linear statistical modeling in 	  R
-	
-2020-2021 | ***Tetiaroa Society– Tetiaroa, French Polynesia***
-		- Ranger 
-	- Marine Protected Area and Ecostation security patrols, fish 	  identification, field technical support to researchers (Lancaster 	  University, Oregon University) including spearfishing, snorkeling, 	  photogrammetry, drone piloting, 3D modeling, and rat trapping, 	  localization and eradication
 
-2019-2020 | ***Centre de Recherches Insulaires et Observatoires de l’Environnement (CRIOBE) Mo’orea French Polynesia***   
-	*Effects of coral bleaching on coral reef cover and composition*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral surveys via transect, coral photography, coral identification 	  and cover estimates, bleaching quantification, multivariate statistics 	  in R   
-	*Effects of ocean acidification on coral growth and metabolism*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- 3D scanning for volume, buoyant weight for bulk calcification, 	  Firesting Pyroscience oxygen optode respirometry   
-	*Effects of size of microfragmentation on coral growth*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral fragment propagation of 10 species in the genera Acropora, 	  Montipora, Pocillopora, Porites, and Cyphastrea   
+### EDUCATION
 
-2017 | ***Recif at Home***   
-	Coral Farmer   
-	- Supervisors – Mr. Boris Rota   
-	- Coral fragmentation, coral husbandry, coral health, species selection   
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-- Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
-- Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
-- Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
-- Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	   ### SCHOLARSHIPS AND AWARDS
-- Master degree 1 and 2 Awarded with Honors   
-- Scholarships for academic excellence are not given in France, but are income based   
-- Technical Specialist Diploma (DU) Awarded with Honors   
-### TEACHING AND EDUCATION
-- Université de Lorraine 
-	- Coral Reef Informational Presentations to Bachelor students   
-	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   ### CONFERENCE
-- Benthic Ecology Meeting - NH, Portsmouth, USA 
-	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
+• Current Study:  Master's student in marine biology science in Mass-Lab in University of Haifa, Israel.
 
-### SKILLS 
-- PADI Advanced Open Water SCUBA Diving
-- Permis Mer – French Boating License for Coastal Waters
-- Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+• 2018-2019 Teaching Diploma and licence in Sceience & Nature fields
+Elementry Education
+Oranim Academic College of Education
+(Credit points: 67 weighed AVG: 96.91) 
+
+• 1999-2002	BSc, Marine Environmental Science  
+Israel Maritime Collage in Michmort.
+Include Marine biology and other marine sciences, marine agriculture, water treatment and seamanship 
+(Total grade points: 145, weighed AVG: 91.51).  
+
+• 1978-1989	Schooling
+Kibbutz Ein Harod M. primary school and “Ort Emek Harod” high school 
+12 years with full Metric at the Biology subjects unit.  
+
+### Work and Army Experience
+
+• 2019-2023 Elementry school educator & teacher
+Teaching: Math, Hebrew,Sceience, life skills
+Ofakim Primary School
+Kibbutz Merhavia
+• 2017-2018 Labrotary assistent in the "Centeral Laboratry for Fish Health"
+Fisheries & Water Department 
+Minstry of Agriculture and Rural Development
+• 2015-2018 Koi-Kin Fish Farm 
+Larvae development department of Koi & Gold fish
+Moshav Ram-On, Israel.
+• 2007-2015 Coral Divers Beach Shop manager at Sodwana Bay
+Managing a retail dive & surf shop, compressor room, teaching Scuba dive courses in few levels, with emphasize on environmental courses.  
+•	2004-2007 Scuba instructing (freelance jobs) at Sodwana Bay
+•	1999-2002 Milking in Refet Maagan- Michael & Teaching in Mevot-Yam high school in Michmort.
+•	1993-1999 Scuba diving instructor in Eilat, Australia, Seychelles & South Africa,
+Guiding and teaching nature & hiking trips in Eilat & Sinai Peninsula. 
+•	1992 Refet Ein Harod M. – milking, calves, etc. 
+•	1989-1991 Army service in Eilat Field School, guiding & teaching nature conservation and hiking trips, include 6 months course in these subjects of the Israeli Nature Conservation Company. 
+
+### Skills
+
+•	PADI Advanced Open Water SCUBA DivingLanguages: Hebrew (native), English (fluent oral & written)
+•	Other: managing skills, well organized & good with jobs involving people, animals, and outdoor jobs.
+•   Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.
+
+
