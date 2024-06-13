@@ -64,7 +64,8 @@ Guiding and teaching nature & hiking trips in Eilat & Sinai Peninsula.
 
 ### Skills
 
-•	PADI Advanced Open Water SCUBA DivingLanguages: Hebrew (native), English (fluent oral & written)
+•	PADI Advanced Open Water SCUBA Diving
+• Languages: Hebrew (native), English (fluent oral & written)
 •	Other: managing skills, well organized & good with jobs involving people, animals, and outdoor jobs.
 •   Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.
 
