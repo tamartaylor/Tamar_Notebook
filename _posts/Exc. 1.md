@@ -1,7 +1,7 @@
 ﻿
 # Distribution and photo-physiology of coral communities across the depth gradient in the Red Sea reefs of Eilat. 
 
-## ** Data collecting conduction notes: **
+## **Data collecting conduction notes:**
 
 ### <ins>Sampling dates:
 
