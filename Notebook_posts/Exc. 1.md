@@ -1,80 +1,23 @@
-﻿# Exc. 1 - 
-# # <ins>CoralNet working protocol
-In order to use CoralNet open source software to identify corals (and species from other groups) I created unique ID list for my research named: \*\*"Eilat Corals"\*\*.
+﻿
+# Distribution and photo-physiology of coral communities across the depth gradient in the Red Sea reefs of Eilat. 
 
-\## [Eilat Corals list](https://coralnet.ucsd.edu/source/4342/labelset/)
+## **Data collecting conduction notes:**
 
-\# <ins>CoralNet working protocol
-
-\### Some values on the list I could find by lookup in the CoralNet general list, and some I had to create myself. 
-
-\#### \*Stylophora pistillata\* for example, is an entery from the general list. 
-
-The labelset table of 100 items in "Eilat Corals" list looks like this (e.g., the head of table below): 
-
-| Name | Short code | Functional group |
-
-\| ----------- | ----------- | --------- |
-
-| \*Acanthastrea\* | Acantha | Hard coral |
-
-| \*Acropora\* |Acrop | Hard coral |
-
-| \*Alveopora\* | Alveo | Hard coral |
-
-![alt text](<Annotations in CoralNet.jpg>)
-
-Figure 1: Eilat Corals label set list and photo annotation menu in CoralNet
-
-\## <ins> Total numbers of observations of functional groups in "Japanese Gardens":
-
-|Depth|Hard Corals|Soft Corals|Sponges|Macroalgae|CCA|
-
-\|-----|-----------|-----------|-------|----------|----|
-
-|5 m|361|14|16|34|92|
-
-|15 m|332|149|7|21|84|
-
-|25 m|821|304|20|4|35|
-
-|35 m|830|92|41|1|30|
-
-|45 m|524|54|21|10|10|
-
-\*\*Sceintific refernce link:\*\* [Corals of the World - Coral taxonomy](http://www.coralsoftheworld.org/page/overview-of-coral-taxonomy/)
-
-\*\*FIRe fluorometer manual link:\*\* [FIRe Manual] (<https://www.comm-tec.com/Docs/Manuali/Satlantic/FIRe-RevG-Manual.pdf>)
-
-**Exc. 2 – Notebook post:** 
-
-\# \*\*Distribution and photo-physiology of coral communities across the depth gradient in the Red Sea reefs of Eilat.\*\* 
-
-\## Data collecting conduction notes:
-
-\### <ins>Sampling dates:
+### <ins>Sampling dates:
 
 12th to 15th July 2022 in 6 dives with closed circuit system on scuba dives.
 
-\### <ins>Dive sites:
+### <ins>Dive sites:
 
-At "Coral Beach Nature Reserve" (NR) - “Japanese Gardens” (29 deg.30’18”N, 34 deg.55’16”E)
+1. "Coral Beach Nature Reserve" (NR) - “Japanese Gardens” (29 deg.30’18”N, 34 deg.55’16”E)
 
-At the Interuniversity Institute north entry - “IUI North” (29 deg.30'10", 34 deg.55’06”E)
+2. Interuniversity Institute north entry - “IUI North” (29 deg.30'10", 34 deg.55’06”E)
 
-At the Interuniversity Institute south entry - “IUI South” (29 deg.30’06”N, 34 deg.55’03”E)
+3. Interuniversity Institute south entry - “IUI South” (29 deg.30’06”N, 34 deg.55’03”E)
 
 Depth-points in each dive: at five depths: 5, 15, 25, 35, and 45 m.
 
-![Figure 1 
-
-(a) Map of the Gulf of Eilat/Aqaba and the research sites south to Eilat, the Nature Reserve (NR) and the Interuniversity Institute (IUI) 
-
-(Rapuano et al. 2017)
-
-](c:\Users\taylor\Documents\GitHub\Tamar\_Notebook\Images\Eilat\_map.jpg)
-
-\### <ins>Part 1 - Benthic communities’ characterization:
+### <ins>Part 1 - Benthic communities’ characterization:
 
 Photo-quadrats were taken on the same depth contour line. 
 
@@ -92,7 +35,7 @@ The camera was parallel to the reef bottom, centered and fixed on top of the qua
 
 Depth gauge was attached to the frame for depth measurement. 
 
-\### <ins>Part 2 - Light physiology and environment:
+### <ins>Part 2 - Light physiology and environment:
 
 At the same three sites as above and same depth-points In-situ fluorometry data was collected.
 
