@@ -12,11 +12,6 @@ At the Interuniversity Institute north entry - “IUI North” (29 deg.30'10", 3
 At the Interuniversity Institute south entry - “IUI South” (29 deg.30’06”N, 34 deg.55’03”E)
 Depth-points in each dive: at five depths: 5, 15, 25, 35, and 45 m.
 
-![Figure 1 
-(a) Map of the Gulf of Eilat/Aqaba and the research sites south to Eilat, the Nature Reserve (NR) and the Interuniversity Institute (IUI) 
-(Rapuano et al. 2017)
-](c:\Users\taylor\Documents\GitHub\Tamar_Notebook\Images\Eilat_map.jpg)
-
 ### <ins>Part 1 - Benthic communities characterization:
 
 Photo-quadrats were taken on the same depth contour line. 
