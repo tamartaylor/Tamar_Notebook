@@ -67,7 +67,7 @@ Pmax – maximum photosynthetic rate (electron/sec) at PSⅡ.
 
 Post-dive the FIRe device connected to a computer in order to download and save data. 
 
-\### <ins>Target-species:
+### <ins>Target-species:
 
 Five symbiotic hard corals that are abundant in GoE/A along the depth gradient were selected. 
 
