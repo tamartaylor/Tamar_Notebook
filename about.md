@@ -27,8 +27,6 @@ https://tamartaylor.github.io/Tamar_Notebook/
 
 • Current Study: Master's student in Marine Biology Science in Mass-Lab in University of Haifa, Israel.
 
-• 2018-2019 Minstry of Education elemntry education teaching diploma and licence.  In general, science & nature fields. 
-Oranim Academic College of Education (Credit points: 67, weighed AVG: 96.91) 
 • 2018-2019 Teaching diploma and licence in Sceience & Nature fields,
 Elementry Education from
 Oranim Academic College of Education
@@ -50,7 +48,7 @@ teaching: Mmth, Hebrew,science, life skills
 at "Ofakim" Primary School,
 Kibbutz Merhavia.  
 • 2017-2018 Labrotary assistent in the "Centeral Laboratry for Fish Health" 
-Fisheries & Water Department, Minstry of Agriculture and Rural Development. Kibbutz Nir-David.
+Fisheries & Water Department, Minstry of Agriculture and Rural Development. Kibbutz Nir-David.  
 • 2015-2018 Koi-Kin Fish Farm 
 Larvae development department of Koi & Gold fish.
 Moshav Ram-On, Israel.  
@@ -83,7 +81,7 @@ Guiding and teaching nature & hiking trips in Eilat & Sinai Peninsula.
 •	PADI Advanced Open Water SCUBA Diving instructor.  
 • Languages: Hebrew (native), English (fluent oral & written).  
 •	Other: managing skills, well organized & good with jobs involving people, animals, and outdoor jobs.  
-•   Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.
+•   Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.  
 • PADI Advanced Open Water SCUBA Diving instructor.  
 • Languages: Hebrew (native), English (fluent oral & written).  
 • Other: managing skills, well organized & good with jobs involving people, animals, and outdoor jobs.  
