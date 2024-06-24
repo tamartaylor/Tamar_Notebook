@@ -27,15 +27,10 @@ https://tamartaylor.github.io/Tamar_Notebook/
 
 • Current Study: Master's student in Marine Biology Science in Mass-Lab in University of Haifa, Israel.
 
-<<<<<<< HEAD
-• 2018-2019 Minstry of Education elemntry education teaching diploma and licence.  In general, science & nature fields. 
-Oranim Academic College of Education (Credit points: 67, weighed AVG: 96.91) 
-=======
 • 2018-2019 Teaching diploma and licence in Sceience & Nature fields,
 Elementry Education from
 Oranim Academic College of Education
 (Credit points: 67 weighed AVG: 96.91) 
->>>>>>> b5977e94223e4b5a3276b4059c21a94b8205e7e6
 
 • 1999-2002	BSc, Marine Environmental Science  
 Israel Maritime Collage in Michmort.
@@ -49,12 +44,11 @@ Kibbutz Ein Harod M. primary school and “Ort Emek Harod” high school
 ### Work and Army Experience
 
 • 2019-2023 Elementry school educator & teacher
-<<<<<<< HEAD
 teaching: Mmth, Hebrew,science, life skills
 at "Ofakim" Primary School,
 Kibbutz Merhavia.  
 • 2017-2018 Labrotary assistent in the "Centeral Laboratry for Fish Health" 
-Fisheries & Water Department, Minstry of Agriculture and Rural Development. Kibbutz Nir-David.
+Fisheries & Water Department, Minstry of Agriculture and Rural Development. Kibbutz Nir-David.  
 • 2015-2018 Koi-Kin Fish Farm 
 Larvae development department of Koi & Gold fish.
 Moshav Ram-On, Israel.  
@@ -65,7 +59,6 @@ Managing a retail dive & surf shop, compressor room, teaching Scuba dive courses
 •	1993-1999 Scuba diving instructor in Eilat, Australia, Seychelles & South Africa,
 Guiding and teaching nature & hiking trips in Eilat & Sinai Peninsula.  
 •	1992 "Refet" Ein Harod M. – milking, calves, etc.  
-=======
 teaching: math, Hebrew,Science, life skills at
 "Ofakim" Primary School
 Kibbutz Merhavia.  
@@ -81,22 +74,14 @@ Moshav Ram-On, Israel.
 •	1993-1999 Scuba diving instructor in Eilat, Australia, Seychelles & South Africa,
 Guiding and teaching nature & hiking trips in Eilat & Sinai Peninsula.   
 •	1992 "Refet" Ein Harod M. – milking, calves, etc.   
->>>>>>> b5977e94223e4b5a3276b4059c21a94b8205e7e6
 •	1989-1991 Army service in Eilat Field School, guiding & teaching nature conservation and hiking trips, include 6 months course in these subjects of the Israeli Nature Conservation Company. 
 
 ### Skills
 
-<<<<<<< HEAD
 •	PADI Advanced Open Water SCUBA Diving instructor.  
 • Languages: Hebrew (native), English (fluent oral & written).  
 •	Other: managing skills, well organized & good with jobs involving people, animals, and outdoor jobs.  
-•   Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.
-=======
-• PADI Advanced Open Water SCUBA Diving instructor.  
-• Languages: Hebrew (native), English (fluent oral & written).  
-• Other: managing skills, well organized & good with jobs involving people, animals, and outdoor jobs.  
-• Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.
->>>>>>> b5977e94223e4b5a3276b4059c21a94b8205e7e6
+•   Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub.  
 
 ### Personal Details
 
