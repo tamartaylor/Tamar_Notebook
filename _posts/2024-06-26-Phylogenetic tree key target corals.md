@@ -10,7 +10,7 @@
 
 ## Gene selected: Mitochondrial gene COX1
 
-## Phylogenetic tree for key target corals: 
+# Phylogenetic tree for key target corals: 
 
 ![Figure 1 Phylogenetic tree](Corals_tree.jpeg)
 
