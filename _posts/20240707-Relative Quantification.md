@@ -31,5 +31,5 @@
 ||**Rac1**|**RhoA**|**CDC42**|**Rock1**|**Vegf**|**VegfR**|**RhoGap24l/2**||
 ||0\.7226532|0\.9369603|1\.1732430|0\.7010899|1\.0252388|0\.6933292|0\.3161010||
 
-![RQ bar chart](Relative quantification bar chart.jpg)
+![alt text](<Relative quantification bar chart-1.jpg>)
 
