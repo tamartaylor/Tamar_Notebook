@@ -40,14 +40,16 @@ The strongest influence was for the depth factor <a name="_hlk172137841"></a>(F=
 
 ||Df|Df.res|F value|Pr(>F)|||
 | :- | :- | :- | :- | :- | :- | :- |
-|site|1|328|8\.2924|0\.00424282||\*\*|
-|depth|2|328|41\.575|< 2.22e-16||\*\*\*|
-|season|1|328|4\.3445|0\.0379014||\*|
-|site:depth|2|328|31\.766|2\.45E-13||\*\*\*|
-|site:season|1|328|13\.0131|0\.00035749||\*\*\*|
-|depth:season|2|328|3\.1264|0\.04518371||\*|
-|site:depth:season|2|328|4\.6156|0\.01054789||\*|
-|<p>Signif. codes:   0 ‘\*\*\*’ 0.001 ‘\*\*’ 0.01 ‘\*’ 0.05 ‘.’ 0.1 ‘ ’ 1</p><p>**Table 1 ART-Anova test results for Bryozoan group by site, season, and depth points.**</p>|||||||
+| site | 1 | 328 | 8.2924 | 0.00424282 | ** |
+| depth | 2 | 328 | 41.575 | < 2.22e-16 | *** |
+| season | 1 | 328 | 4.3445 | 0.0379014 | * |
+| site:depth | 2 | 328 | 31.766 | 2.45E-13 | *** |
+| site:season | 1 | 328 | 13.0131 | 0.00035749 | *** |
+| depth:season | 2 | 328 | 3.1264 | 0.04518371 | * |
+| site:depth:season | 2 | 328 | 4.6156 | 0.01054789 | * |
+<p>Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1'
+
+Table 1 ART-Anova test results for Bryozoan group by site, season, and depth points.
 
 The results of the correlation test between the cover percentage of the Bryozoa group with the Cnidaria group, showed correlation exists (p-value=1.46E-07) and it was positive as expected. The magnitude of the correlation was low (0.296 Table 2). Nevertheless, it is supporting the assumption made that since Cnidarians and Bryozoans are using the same substrate in order to settle and grow, and once hard substrate is present there would be enough space for sessile organisms from few taxa to settle (Figure 2).
 
@@ -59,7 +61,7 @@ The results of the correlation test between the cover percentage of the *Bryozoa
 |Algae|Cnidaria|-0.37141|1\.46E-12|1\.42E-11|
 |Bryozoa|Cnidaria|0\.296745|2\.44E-08|<a name="_hlk172149173"></a>1.46E-07|
 
-**Table 2 Correlations between Bryozoa to the algae and Cnidaria groups and between the Cnidaria-algae groups.**
+Table 2 Correlations between Bryozoa to the algae and Cnidaria groups and between the Cnidaria-algae groups.
 
 
 
