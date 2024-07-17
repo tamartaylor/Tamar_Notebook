@@ -38,7 +38,7 @@ Since there is no homogeneity, a non-parametric ART-Anova statistical test was u
 
 The strongest influence was for the depth factor <a name="_hlk172137841"></a>(F=41.57, p-value<2.22e-16). As can be seen at Figure 1. Especially at the depth of 45 m, in both sites and seasons, a totally different pattern of the coverage was demonstrated. The site factor was the second to affect the coverage, and then the season factor <a name="_hlk172138142"></a>(F=8.29, p-value=0.0042 and F=4.34, p-value=0.038 respectively). From the interactions, the strongest was <a name="_hlk172138251"></a>the interaction of the site\*depth (F=31.76, p-value<2.45e-13). Followed by the one between site\*season and lastly, between depth\*season (F=13.01, p-value=0.0003 and F=3.13, p-value=0.045 respectively). The interaction of the three factors site\*depth\*season was relatively low (F=4.51, p-value=0.01).
 
-|<p></p><p> </p>|Df|Df.res|F value|Pr(>F)|||
+||Df|Df.res|F value|Pr(>F)|||
 | :- | :- | :- | :- | :- | :- | :- |
 |site|1|328|8\.2924|0\.00424282||\*\*|
 |depth|2|328|41\.575|< 2.22e-16||\*\*\*|
@@ -48,7 +48,6 @@ The strongest influence was for the depth factor <a name="_hlk172137841"></a>(F=
 |depth:season|2|328|3\.1264|0\.04518371||\*|
 |site:depth:season|2|328|4\.6156|0\.01054789||\*|
 |<p>Signif. codes:   0 ‘\*\*\*’ 0.001 ‘\*\*’ 0.01 ‘\*’ 0.05 ‘.’ 0.1 ‘ ’ 1</p><p>**Table 1 ART-Anova test results for Bryozoan group by site, season, and depth points.**</p>|||||||
-![](Aspose.Words.c4e18dd4-2e93-4cd9-b458-c60d22ca4783.001.jpeg)
 
 The results of the correlation test between the cover percentage of the Bryozoa group with the Cnidaria group, showed correlation exists (p-value=1.46E-07) and it was positive as expected. The magnitude of the correlation was low (0.296 Table 2). Nevertheless, it is supporting the assumption made that since Cnidarians and Bryozoans are using the same substrate in order to settle and grow, and once hard substrate is present there would be enough space for sessile organisms from few taxa to settle (Figure 2).
 
