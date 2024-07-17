@@ -12,7 +12,7 @@
 
 ### Phylogenetic tree for key target corals: 
 
-![alt text]_(![alt text](Corals_tree-1.jpeg))
+![alt text](../images/Corals_tree.jpeg)
 
 
 
